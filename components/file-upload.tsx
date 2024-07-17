@@ -11,6 +11,7 @@ interface FileUploadProps {
     value: string;
     endpoint :"messageFile" | "serverImage"
 }
+//FILE UPLOAD FUNCTION
 const FileUpload = ({
     onChange,
     value,
