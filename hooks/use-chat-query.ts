@@ -31,8 +31,6 @@ export const useChatQuery = ({
     return res.json();
   };
 
-
-
   const {
     data,
     fetchNextPage,
