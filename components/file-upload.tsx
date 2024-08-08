@@ -76,6 +76,7 @@ const FileUpload = ({
             </div>
         )
     }
+    
   return (
     <div>
         <UploadDropzone
